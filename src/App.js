@@ -25,10 +25,10 @@ class App extends Component {
     this.setState({ contacts });
   };
 
-  handleChange = ({ target }) => {
-    const title = target.value;
-    this.setState({ title });
-  };
+  // handleChange = ({ target }) => {
+  //   const title = target.value;
+  //   this.setState({ title });
+  // };
 
   handleFilter = filter => {
     this.setState({ filter });

@@ -2,9 +2,9 @@
   "name": "goit-react-hw-02-phonebook",
   "repository": {
     "type": "git",
-    "url": "git+https://Di.ua.github.io/goit-react-hw-02-phonebook.git"
+    "url": "git+https://di-ua.github.io/goit-react-hw-02-phonebook.git"
   },
-  "homepage": "https://Di.ua.github.io/goit-react-hw-02-phonebook/",
+  "homepage": "https://di-ua.github.io/goit-react-hw-02-phonebook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
